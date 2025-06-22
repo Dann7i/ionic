@@ -1,0 +1,8 @@
+{
+  "name": "CodeJS X Dan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "149141b1"
+}
